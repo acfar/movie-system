@@ -1,4 +1,4 @@
-# order-system service
+# movie-system service
 
 ## Stack
 - Java 1.8
@@ -30,7 +30,7 @@
     - Initial Data is also will be injected into table
   
     # Running the apps
-    - Running application through OrderApplication.class
+    - Running application through MovieApplication.class
     - To Look Documentation API could be through swagger via http://localhost:8080/swagger-ui.html
     ```
 
